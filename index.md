@@ -12,37 +12,7 @@
 - An empowered person can help an unempowered person by teaching them the things they know about the internet and its usages, as well as possibly helping them get access to the internet and electronics if they don't arleady. Something I could do for example is share my laptop if a person needs it, or explain how something works to them so they're not so confused.
 ### 5.2 TPT: Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 I would say that red tape is blocking digital empowerment. This is due to the fact that inorder to have access to the internet a number of steps must be met first. A person needs to be in a place with a good connection, they need to have the tools and means neccesary to learn and become educated on what they're doing, and they must have the financial ability to afford the techonology itself. I don't think these barriers exist at Del Norte because our school is very lucky to have access and the ability to give everyone laptops and chromebooks. On the other hand, schools in not so well off neighborhoods have barriers due to lack of technology.
+## [Data Structure Project Replit](https://replit.com/@Tigran7/TigranCSP3-1#practice.py)
+## [Create Task](https://replit.com/@Tigran7/TigranCSP3-1#Createtask.js)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tigran7/TigranCSP3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
