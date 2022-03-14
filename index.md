@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Tigran's Personal GitHub Page
 
 You can use the [editor on GitHub](https://github.com/Tigran7/TigranCSP3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
