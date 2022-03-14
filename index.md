@@ -1,5 +1,5 @@
 # Tigran's Personal GitHub Page
-## Week0 [team](https://github.com/Tigran7/TeamSaveUkraine/issues/4) [personal](https://github.com/Tigran7/TigranCSP3/issues/1)
+## 1.Week0 [team](https://github.com/Tigran7/TeamSaveUkraine/issues/4) [personal](https://github.com/Tigran7/TigranCSP3/issues/1)
 ## GitHub Pages Action
 ### 5.1 TPT: Beneficial and corresponding Harmful Effects of Computing
 1. Through the internet we are able to communicate with people from all around the world. Social media networks such as facebook allow us to chat with friends and family in a matter of seconds.
