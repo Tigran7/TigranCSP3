@@ -15,7 +15,6 @@
 - An empowered person can help an unempowered person by teaching them the things they know about the internet and its usages, as well as possibly helping them get access to the internet and electronics if they don't arleady. Something I could do for example is share my laptop if a person needs it, or explain how something works to them so they're not so confused.
 ### 5.2 TPT: Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 I would say that red tape is blocking digital empowerment. This is due to the fact that inorder to have access to the internet a number of steps must be met first. A person needs to be in a place with a good connection, they need to have the tools and means neccesary to learn and become educated on what they're doing, and they must have the financial ability to afford the techonology itself. I don't think these barriers exist at Del Norte because our school is very lucky to have access and the ability to give everyone laptops and chromebooks. On the other hand, schools in not so well off neighborhoods have barriers due to lack of technology.
-## [Data Structure Project Replit](https://replit.com/@Tigran7/TigranCSP3-1#practice.py)
-## [Create Task](https://replit.com/@Tigran7/TigranCSP3-1#Createtask.js)
+
 
 
