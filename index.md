@@ -3,7 +3,7 @@
 ## GitHub Pages Action
 ## [Create Task](createTask.md)
 ## [Python Project](dataStructures.md)
-## [Week 0 Notes](notes0.md)
+## [Week 0 TPT Notes](notes0.md)
 
 
 
