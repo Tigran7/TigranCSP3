@@ -17,8 +17,4 @@ I would say that red tape is blocking digital empowerment. This is due to the fa
 ## [Data Structure Project Replit](https://replit.com/@Tigran7/TigranCSP3-1#practice.py)
 ## [Create Task](https://replit.com/@Tigran7/TigranCSP3-1#Createtask.js)
 
-# Welcome to Tigran's Jekyll Page
-|Week|Create Task|Replit|Test Prep Study|
-| - | - | - | - |
-|Week 0|[Create Task](createTask.md)%7C[Replit Runtime](dataStructure.md)%7C[Test Prep Study](https://pranavp04.github.io/Pranav-Data-Structures-Repository-Tri-3/5.1-5.2%20Notes)%7C[Week 0 Individual Grading](https://github.com/PranavP04/Pranav-Data-Structures-Repository-Tri-3/issues/1)%7C
 
