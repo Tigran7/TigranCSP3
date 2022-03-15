@@ -2,6 +2,7 @@
 ## 1. Week0 [team](https://github.com/Tigran7/TeamSaveUkraine/issues/4) [personal](https://github.com/Tigran7/TigranCSP3/issues/1)
 ## GitHub Pages Action
 ## [Create Task](createTask.md)
+## [Python Project](dataStructures.md)
 ### 5.1 TPT: Beneficial and corresponding Harmful Effects of Computing
 1. Through the internet we are able to communicate with people from all around the world. Social media networks such as facebook allow us to chat with friends and family in a matter of seconds.
 2. Through the internet and various social media networks, a harmful effect is cyber bullying. It is very easy for people to make fun of and bully others using social media, since they don't have to see one another face to face.
