@@ -1,6 +1,5 @@
 # Tigran's Personal GitHub Page
 ## [Create Task](createTask.md)
-## [Python Project](dataStructures.md)
 
 | TPT Notes/Actions | Personal Review Tickets | Team Review Tickets | Python Project Replit |
 | :---:         |     :---:      |     :---:      |        :---: |
