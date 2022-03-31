@@ -1,16 +1,18 @@
-import math
-def Fact():  
-  class Factorial:
-      def __init__(self):
-          self.factorialSeq = [1]
-  def __call__(self):
-          if self < len(self.factorialSeq):
-              return self.factorialSeq[self]
-          else:
-              # Compute the requested Fibonacci number
-              fact_number = math.factorial(self) # two recursive calls to self (__call__(self, n))
-              self.factorialSeq.append(fact_number) # builds list, with most nested of the calculations 1st... may hurt your head
-          return self.factorialSeq[self]      
-  
-  factorial_of = Factorial() # object instantiation and run __init__ method
-  print(factorial_of(5)) # object running __call__ method
+class Factorial:
+  def __init__(self):
+    self.factorial = [1,1]
+    
+  def __call__ (self,num):
+    if num <= 1:
+      pass #goes to the end return statement
+    else:
+      self.factorial.append(num * self(num-1)) 
+    return self.factorial[num]
+
+
+#Output function
+def tstr():
+  #Num set here instead of user input, can change
+  num = 5
+  g = Factorial()
+  print("The factorial of",num, "is", g(num))

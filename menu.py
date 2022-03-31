@@ -11,8 +11,8 @@ main_menu = [
 #w 0 submenu
 w0_list = [
     ["Swap", swap.age],
-#    ["Numpad", ship2.ship],
-#When you make a new thing? you can use this format C:
+    ["Numpad", numpad.Matrix],
+# When you make a new thing? you can use this  list format format C:
 ]
 #w 1 submenu
 w1_list = [
@@ -22,7 +22,7 @@ w1_list = [
 
 #w 2 submenu
 w2_list = [
-  ["Factorial", factorial.Fact()],
+  ["Factorial", factorial.tstr],
   ["Arithmetic Sequence", math2.imp],
 ]
 
