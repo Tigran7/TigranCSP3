@@ -1,10 +1,9 @@
-from w0 import swap
-from w0 import matrix
-from w0 import ship2
-from w1 import database
-from w1 import fibonacci
-from w2 import factorial
-from w2 import mathfunc
+from week0 import swap
+from week0 import numpad
+from week1 import infoDB
+from week1 import fibonacci
+from week2 import factorial
+from week2 import math2
 
 main_menu = [
     
@@ -12,19 +11,19 @@ main_menu = [
 #w 0 submenu
 w0_list = [
     ["Swap", swap.age],
-    ["Matrix", matrix.Matrix],
-    ["Ironside Malphite", ship2.ship],
+#    ["Numpad", ship2.ship],
+#When you make a new thing? you can use this format C:
 ]
 #w 1 submenu
 w1_list = [
-  ["Fibonacci", fibonacci.Fibonacci],
-  ["Database", database.for_loop]
+  ["Fibonacci", fibonacci.fibo],
+  ["Database", infoDB.for_loop]
 ]
 
 #w 2 submenu
 w2_list = [
-  ["Factorial", factorial.tstr],
-  ["Arithmetic Sequence", mathfunc.imp],
+  ["Factorial", factorial.Fact()],
+  ["Arithmetic Sequence", math2.imp],
 ]
 
 

@@ -1,4 +1,4 @@
-
+#no longer used until you fix maybe? C:
 class Math:
     def __init__(self):
         self.mSeq = [1]
