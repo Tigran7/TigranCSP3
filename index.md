@@ -1,3 +1,4 @@
+{% include navigation.html %}
 # Tigran's Personal GitHub Page
 ## [Create Task](createTask.md)
 ## [Replit](practice.md)
