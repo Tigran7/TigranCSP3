@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # TPT 5.3/5.4 notes
 ## Computer Bias 5.3
 - Does the owner of the computer think this was intentional?
