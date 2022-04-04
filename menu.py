@@ -21,9 +21,9 @@ w1_list = [
   ["Database (This will print using all three methods)", infoDB.tester]
 ]
 alt_list = [
-    ["Database For Loop", infoDB.for_loop()],
-    ["Database While Loop", infoDB.while_loop(0)],
-    ["Database Recursive Loop", infoDB.recursive_loop(0)],
+    ["Database For Loop", infoDB.for_loop],
+    ["Database While Loop", infoDB.while_loop],
+    ["Database Recursive Loop", infoDB.recursive_loop],
 ]
 
 #w 2 submenu

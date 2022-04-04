@@ -48,7 +48,8 @@ def for_loop():
     for n in range(len(InfoDb)):
         print_data(n)
       
-def while_loop(n):
+def while_loop():
+    n = 0
     while n < len(InfoDb):
         print_data(n)
         n += 1
@@ -64,7 +65,7 @@ def tester():
   print("forloop")
   for_loop()
   print("While loop")
-  while_loop(0)
+  while_loop()
   print("Recursive loop")
   recursive_loop(0)
 
