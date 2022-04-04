@@ -5,43 +5,43 @@ InfoDb.append({
                "School": "Del Norte",  
                "City": "San Diego",  
                "Food": "Pizza",  
-               "beverage": "water",  
-               "sports":["soccer","basketball","tennis","hockey", "Track"]  
+               "beverage": "Water",
+               "sports":["Soccer","Basketball","Tennis","Hockey", "Track"]
               })
 
 InfoDb.append({
     "Name": "Bob",
     "School": "Del Norte",
     "City": "San Diego",
-    "Food": "Egg",
-    "beverage": "water",
-    "sports":["soccer", "Track"]
+    "Food": "Limes",
+    "beverage": "Limeade",
+    "sports":["Soccer", "Track"]
 })
 
 InfoDb.append({
     "Name": "Bill",
     "School": "Del Norte",
     "City": "San Diego",
-    "Food": "Rice",
-    "beverage": "Lemon",
-    "sports":["basketball","tennis"]
+    "Food": "Lemons",
+    "beverage": "Lemon Juice",
+    "sports":["","Lemon Squeezing"]
 })
 
 InfoDb.append({
     "Name": "Jeff",
     "School": "Del Norte",
     "City": "San Diego",
-    "Food": "Apple",
-    "beverage": "Coke",
-    "sports":["None"]
+    "Food": "Rice",
+    "beverage": "Rice Water",
+    "sports":["Extreme Rice Washing"]
 })
 
 def print_data(n):
     print(InfoDb[n]["Name"], "lives in ", InfoDb[n]["City"])  # using comma puts space between values
-    print("\t", "Food: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-    print(", ".join(InfoDb[n]["Food"]))  # join allows printing a string list with separator
-    print("\t", "Beverage: ", end="")
-    print(InfoDb[n].get("sports")[0])
+    print("\t", "Food: ",(InfoDb[n]["Food"]))  # \t is a tab indent
+    print("\t", "Beverage: ",(InfoDb[n]["beverage"]))
+    print("\t", "Sports Played: ", end="")    #  end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["sports"]))  # join allows printing a string list with separator
     print()
 
 def for_loop():
