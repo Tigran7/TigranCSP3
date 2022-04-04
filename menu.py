@@ -4,6 +4,7 @@ from week1 import infoDB
 from week1 import fibonacci
 from week2 import factorial
 from week2 import math2
+from my_projects import physics
 
 main_menu = [
     
@@ -26,6 +27,9 @@ w2_list = [
   ["Arithmetic Sequence", math2.imp],
 ]
 
+w3_list = [
+  ["Physics", physics.go],
+]
 
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
@@ -37,6 +41,7 @@ def menu():
     menu_list.append(["Week 0",w0Menu])
     menu_list.append(["Week 1",w1Menu])
     menu_list.append(["Week 2",w2Menu])
+    menu_list.append(["My Projects",w3Menu])
     buildMenu(title, menu_list)
   
 
@@ -51,6 +56,11 @@ def w1Menu():
 def w2Menu():
   title = "w 2 Menu" + banner
   buildMenu(title, w2_list)
+
+def w3Menu():
+  title = "My Projects" + banner
+  buildMenu(title, w3_list)
+
 
 def buildMenu(banner, options):
 
