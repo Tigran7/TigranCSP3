@@ -18,7 +18,12 @@ w0_list = [
 #w 1 submenu
 w1_list = [
   ["Fibonacci", fibonacci.fibo],
-  ["Database", infoDB.for_loop]
+  ["Database (This will print using all three methods)", infoDB.tester]
+]
+alt_list = [
+    ["Database For Loop", infoDB.for_loop()],
+    ["Database While Loop", infoDB.while_loop(0)],
+    ["Database Recursive Loop", infoDB.recursive_loop(0)],
 ]
 
 #w 2 submenu
@@ -46,15 +51,20 @@ def menu():
   
 
 def w0Menu():
-  title = "w 0 Menu" + banner
+  title = "week 0 Menu" + banner
   buildMenu(title, w0_list)
   
 def w1Menu():
-  title = "w 1 Menu" + banner
+  title = "week 1 Menu" + banner
+  w1_list.append(["Database alternate printing options", altMenu],)
   buildMenu(title, w1_list)
 
+def altMenu():
+  title = "Alternate Printing Options" + banner
+  buildMenu(title, alt_list)
+
 def w2Menu():
-  title = "w 2 Menu" + banner
+  title = "week 2 Menu" + banner
   buildMenu(title, w2_list)
 
 def w3Menu():
