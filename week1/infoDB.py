@@ -61,6 +61,9 @@ def recursive_loop(n):
         recursive_loop(n + 1)
     return # exit condition
 
+def recur():
+    recursive_loop(0)
+
 def tester():
   print("forloop")
   for_loop()

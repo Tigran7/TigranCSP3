@@ -23,7 +23,7 @@ w1_list = [
 alt_list = [
     ["Database For Loop", infoDB.for_loop],
     ["Database While Loop", infoDB.while_loop],
-    ["Database Recursive Loop", infoDB.recursive_loop],
+    ["Database Recursive Loop", infoDB.recur],
 ]
 
 #w 2 submenu
