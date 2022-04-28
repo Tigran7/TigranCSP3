@@ -9,6 +9,6 @@
 | [Week 2 TPT Notes](notes2.md)   | [Week 2](https://github.com/Tigran7/TigranCSP3/issues/3)     | [week2](https://github.com/Tigran7/TeamSaveUkraine/issues/12)   |
 | N/A | [Week 3](https://github.com/Tigran7/TigranCSP3/issues/4) | N/A |
 | [Plan](plan.md) | [Week 4](https://github.com/Tigran7/TigranCSP3/issues/5) | N/A |
-| [MC Tests](mc.md | [Week 5](https://github.com/Tigran7/TigranCSP3/issues/6) | N/A |
+| [MC Tests](mc.md) | [Week 5](https://github.com/Tigran7/TigranCSP3/issues/6) | N/A |
 
 
