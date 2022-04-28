@@ -9,7 +9,7 @@
 - Friday: Start coding it
 ## Week 1 (Units 1-5)
 - Monday: Watch Unit 1 lecture video on AP Collegeboard and take corresponding quizzes.
-- Tuesday: Take 2015 MC during classtime. Watch Unit 2 lecture video on AP Collegeboard and take corresponding quizzes.
-- Wednesday: Correct 2015 MC on personal study guide. Watch Unit 3 lecture video on AP Collegeboard and take corresponding quizzes.
-- Thursday: Take 2015 FRQ during classtime. Watch Unit 4 lecture video on AP Collegeboard and take corresponding quizzes.
-- Friday: Correct 2015 FRQ on personal study guide. Watch Unit 5 lecture video on AP Collegeboard and take corresponding quizzes.
+- Tuesday: Take MC during classtime. Watch Unit 2 lecture video on AP Collegeboard and take corresponding quizzes.
+- Wednesday: Correct MC on personal study guide. Watch Unit 3 lecture video on AP Collegeboard and take corresponding quizzes.
+- Thursday: Take MC during classtime. Watch Unit 4 lecture video on AP Collegeboard and take corresponding quizzes.
+- Friday: Correct second MC on personal study guide. Watch Unit 5 lecture video on AP Collegeboard and take corresponding quizzes.
